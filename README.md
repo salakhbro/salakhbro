@@ -1,18 +1,10 @@
-## Hi there I'm salakh.bro 👋
+# 👋 Hi, I'm salakhbro
 
-**salakhbro/salakhbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer  
+💻 HTML • CSS • JavaScript • React  
+🧩 Figma • GitHub • VS Code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+---
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salakh.bro)
@@ -32,6 +24,14 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salakhbro&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,6 +46,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salakhbro&theme=radical"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salakhbro&theme=radical)
 
 ---
 
