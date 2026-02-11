@@ -25,4 +25,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salakhbro&show_icons=true&theme=radical)](https://github.com/salakhbro)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salakhbro&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salakhbro&layout=compact&theme=radical" width="48%" />
+</p>
