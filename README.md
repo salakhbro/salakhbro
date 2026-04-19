@@ -13,6 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salakh.bro) 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ismoilovich7) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@salakh.bro-dev)
+[![Monkeytype](https://monkeytype.com/images/favicon.ico)](https://monkeytype.com)
 
 
 ---
