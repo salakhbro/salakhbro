@@ -13,26 +13,23 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salakh.bro) 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ismoilovich7) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@salakh.bro-dev)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Vue](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js)
-![React](https://img.shields.io/badge/React-61dafb?logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
-![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
-![Vite](https://img.shields.io/badge/Vite-purple?logo=vite)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+</p>
 
 ---
 
